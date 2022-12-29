@@ -1,0 +1,45 @@
+.list {
+  list-style-type: none;
+  display: flex;
+
+  border-radius: 12px;
+}
+.time {
+  font-size: 17px;
+  color: #475569;
+  padding-top: 19px;
+}
+.domains {
+  margin-left: 60px;
+  display: flex;
+}
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-top: 24px;
+  margin-left: 10px;
+}
+.dom {
+  font-size: 20px;
+  color: grey;
+  font-family: 'Roboto';
+  padding-left: 20px;
+}
+.para {
+  font-size: 20px;
+  color: #475569;
+  font-family: 'Roboto';
+  padding-left: 20px;
+}
+.delete {
+  width: 20px;
+
+  height: 20px;
+  justify-items: flex-end;
+}
+.btn {
+  width: 30px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left: 50px;
+}
